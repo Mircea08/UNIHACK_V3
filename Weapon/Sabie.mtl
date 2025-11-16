@@ -1,0 +1,54 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 18.11.2011 15:40:38
+
+newmtl sword_blade
+	Ns 60.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3137 0.3137 0.3137
+	Kd 0.3137 0.3137 0.3137
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl sword_handle_4
+	Ns 20.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.3600 0.3600 0.3600
+	Ke 0.0000 0.0000 0.0000
+	map_Ka handle4.jpg
+	map_Kd handle4.jpg
+
+newmtl sword_handle
+	Ns 20.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.3600 0.3600 0.3600
+	Ke 0.0000 0.0000 0.0000
+	map_Ka handle2.jpg
+	map_Kd handle2.jpg
+
+newmtl sword_handle_2
+	Ns 20.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 0.7686 0.3725
+	Kd 1.0000 0.7686 0.3725
+	Ks 0.3600 0.3600 0.3600
+	Ke 0.0000 0.0000 0.0000
